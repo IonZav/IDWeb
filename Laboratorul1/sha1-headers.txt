@@ -1,0 +1,10 @@
+c : b9f06e2da2ff669386d34b912cb5282b4da8c943 SHA-1 checksum
+cpp : 8e97d3fba2418805b66e6b1c77df27a4577139ad SHA-1 checksum
+cs : 41112290d3493a49e21119b8e251dc68d401ba43 SHA-1 checksum
+dpr : 8c94e7bb9807e28f3be3fe2d1211830319800204 SHA-1 checksum
+java : 121e9f5c1a82c4d508220ff7a4b35c7c6e70f697 SHA-1 checksum
+js : 036152454de99bdc59f8bc5579a4ef6ca0ea60d5 SHA-1 checksum
+m : 08e87fe3192725438cd67869dffbde13721c1288 SHA-1 checksum
+pas : bc9bf1bf075e71e3f2c8b919225d5c352074cc92 SHA-1 checksum
+py : 74f9d931eed54140be61484fa3d9f0ea29318497 SHA-1 checksum
+rb : 28970d2c9763daf445bed1e617536c3f3a5a3645 SHA-1 checksum
